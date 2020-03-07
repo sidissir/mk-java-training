@@ -26,7 +26,7 @@ public class DataTypesExample {
 		
 		totalPrice = prodQuantity* productPrice;
 		
-		System.out.println(totalPrice);
+		System.out.println("total price :"+ totalPrice);
 		
 		
 		int monthVar = 12;
