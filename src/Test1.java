@@ -2,7 +2,16 @@
 public class Test1 {
 
 	public static void main(String[] args) {
-		System.out.println("Hellooo");
+
+		int i = 0;
+		i++;
+		System.out.println(i);
+		System.out.println("-------------------");
+
+		for (int j = 0; j < 10; j++) {
+			System.out.println(j);
+		}
+
 	}
 
 }
