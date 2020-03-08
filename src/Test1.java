@@ -6,7 +6,7 @@ public class Test1 {
 		int i = 0;
 		i++;
 		System.out.println(i);
-		System.out.println("-------------------");
+		System.out.println("------Hrloooooooo-------------");
 
 		for (int j = 0; j < 10; j++) {
 			System.out.println(j);
