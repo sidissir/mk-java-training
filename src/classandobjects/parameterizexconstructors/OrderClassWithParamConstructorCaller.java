@@ -25,6 +25,9 @@ public class OrderClassWithParamConstructorCaller {
 		System.out.println(obj2.tax);
 		System.out.println(obj2.deliveryPostalCode);
 		System.out.println(obj2.orderTimeStamp);
+		
+		OrderClassWithParamConstructor obj3 = new OrderClassWithParamConstructor(3, 122, 5, 13.5, 1.25, "MK44HT",
+				"2020-03-01 02:34:21");
 
 	}
 
