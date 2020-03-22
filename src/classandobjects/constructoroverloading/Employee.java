@@ -2,8 +2,8 @@ package classandobjects.constructoroverloading;
 
 public class Employee {
 
-	
-	//Constructor overloading => Multiple constructors with differing parameters => Number of params, data type of params
+	// Constructor overloading => Multiple constructors with differing parameters =>
+	// Number of params, data type of params
 	// Employee class
 
 	// Variables
@@ -31,7 +31,7 @@ public class Employee {
 		empId = empIDFrom;
 
 	}
-	
+
 	// Step 4 : with parameterised constructor
 
 	Employee(int empIDFrom, String empNameFrom, double monthlySalaryFrom) {
@@ -42,6 +42,7 @@ public class Employee {
 	}
 
 	// Methods
+
 	public void getEmpId() {
 		System.out.println("Emp Id is  :" + empId);
 	}
@@ -70,7 +71,7 @@ public class Employee {
 		System.out.println(obj2.orgName);
 
 		System.out.println("-------------------");
-		
+
 		Employee obj3 = new Employee(3, "Prashanthi", "TCS", 2970);
 		obj3.getEmpId();
 		obj3.getEmpName();
@@ -78,13 +79,13 @@ public class Employee {
 		System.out.println(obj3.orgName);
 
 		System.out.println("-------------------");
-		
+
 		Employee obj4 = new Employee(4, "Raji", 4000);
 		obj4.getEmpId();
 		obj4.getEmpName();
 		obj4.getNetSalary();
 		System.out.println(obj4.orgName);
 		System.out.println("-------------------");
-		
+
 	}
 }
