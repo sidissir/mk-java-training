@@ -17,5 +17,8 @@ public class NumericalDataTypes {
 	
 	int intVar =2500;
 	System.out.println(intVar);
+	
+	
+	
 	}
 }
