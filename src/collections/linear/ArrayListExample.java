@@ -10,17 +10,18 @@ public class ArrayListExample {
 		// List is an interface
 		// ArrayList can store duplicates
 
-		List<String> subjectList = new ArrayList<String>();
+		String[] strAr = new String[5]; // This Array can only have string values => Homogeneous
 
+		List<String> subjectList = new ArrayList<String>(); // This Collection can only have String values => Homogeneous
+		//But Collection can hold heterogeneous values => It can can take any data type
 		subjectList.add("Telugu");
 		subjectList.add("English");
 		subjectList.add("Maths");
 		subjectList.add("Science");
 		subjectList.add("Social");
 		// You can not add a value which is not string
-		// subjectList.add(123);
-		
-		
+		// subjectList.add(123); This is not acceptable
+
 		for (String sub : subjectList) {
 			System.out.println(sub);
 		}
@@ -29,10 +30,10 @@ public class ArrayListExample {
 		System.out.println(listSize);
 		// To add a new element to ArrayList
 		subjectList.add("Hindi");
-		
-		//To read a value from ArrayList
+
+		// To read a value from ArrayList
 		System.out.println(subjectList.get(2));
-		
+
 		listSize = subjectList.size();
 		System.out.println(listSize);
 
@@ -47,28 +48,22 @@ public class ArrayListExample {
 		} else {
 			System.out.println("Not Present");
 		}
-		
+
 		System.out.println(subjectList);
 
 		subjectList.remove(5);
 		System.out.println(subjectList);
-		
+
 		subjectList.add("Social");
 		System.out.println(subjectList);
-		
-		
+
 		System.out.println("===================================================");
 		List<Double> marksList = new ArrayList<Double>();
-		
-		
+
 		marksList.add(99.5);
 		marksList.add(98.5);
 		marksList.add(34.5);
-	//	marksList.add("Please pass me");
-		
-
-
-		
+		// marksList.add("Please pass me");
 
 	}
 
