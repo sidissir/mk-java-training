@@ -1,7 +1,21 @@
+Java-01-SetUp-Variables-DataTypes
+Shared on Google Drive => https://drive.google.com/open?id=1gQny-ydYQCbUYwtdcqDDwWck2W6bZfN2
+
+Java-02-DataTypes-Operators-ConditionalStatements
+Shared on Google Drive => https://drive.google.com/open?id=1gQny-ydYQCbUYwtdcqDDwWck2W6bZfN2
+
+Java-03-Loops-Arrays
+Shared on Google Drive => https://drive.google.com/open?id=1gQny-ydYQCbUYwtdcqDDwWck2W6bZfN2
+
+Java-04-01-Arrays-Strings
+Shared on Google Drive => https://drive.google.com/open?id=1gQny-ydYQCbUYwtdcqDDwWck2W6bZfN2
+
+Java-04-02-Strings
+Shared on Google Drive => https://drive.google.com/open?id=1gQny-ydYQCbUYwtdcqDDwWck2W6bZfN2
+
 Java-05-ClassAndObjects
 Ayaansh01
 https://sss-kia.my.webex.com/recordingservice/sites/sss-kia.my/recording/playback/703bbe6df1f6482ca699367b45ee9060
-
 
 Java-06-ClassAndObjects
 Ayaansh01
@@ -47,4 +61,28 @@ Java-15-OOPS-Abstraction-AbstractClass
 Ayaansh01
 https://sss-kia.my.webex.com/recordingservice/sites/sss-kia.my/recording/playback/32727aeed9d541a4bf0c3533b136f7cc
 
+Java-16-WrapperClasses
+Shared on Google Drive => https://drive.google.com/open?id=1gQny-ydYQCbUYwtdcqDDwWck2W6bZfN2
 
+Java-17-Collections
+Shared on Google Drive => https://drive.google.com/open?id=1gQny-ydYQCbUYwtdcqDDwWck2W6bZfN2
+
+Java-18-IO-TextFileReadAndWrite
+Ayaansh01
+https://sss-kia.my.webex.com/recordingservice/sites/sss-kia.my/recording/playback/d5f1c1da6de1434ba70140db4b640811
+
+Java-19-IO-ConsoleReadAndWrite
+Ayaansh01
+https://sss-kia.my.webex.com/recordingservice/sites/sss-kia.my/recording/playback/8f236a8559eb421d90875f942b1bc842
+
+Java-20-IO-PropertiesFile
+Ayaansh01
+https://sss-kia.my.webex.com/recordingservice/sites/sss-kia.my/recording/playback/a60b87c975344d0c9034a77ab296da6d
+
+Java-21-ExceptionHandling
+Ayaansh01
+https://sss-kia.my.webex.com/recordingservice/sites/sss-kia.my/recording/playback/44f3cfcfccdd4185a02c983a0a526829
+
+Java-22-EscapeSequences
+Ayaansh01
+https://sss-kia.my.webex.com/recordingservice/sites/sss-kia.my/recording/playback/0a95a74d095e4d1890cbb57a435107e2
